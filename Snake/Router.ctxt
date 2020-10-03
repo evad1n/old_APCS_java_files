@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=Router(Board)
+comment1.params=y
+comment1.target=void\ setDifficulty(int)
+comment2.params=seconds
+comment2.target=void\ timer(int)
+comment3.params=
+comment3.target=void\ lose()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=d
+comment5.target=void\ setDirection(int)
+comment6.params=
+comment6.target=int\ getDirection()
+numComments=7

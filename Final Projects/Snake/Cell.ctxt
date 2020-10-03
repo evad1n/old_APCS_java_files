@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=Cell(int,\ int)
+comment1.params=one\ two
+comment1.target=void\ setPlayerColors(java.awt.Color,\ java.awt.Color)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=t
+comment3.target=void\ setType(int)
+comment4.params=
+comment4.target=int\ getType()
+comment5.params=
+comment5.target=int\ getRow()
+comment6.params=
+comment6.target=int\ getCol()
+comment7.params=r
+comment7.target=void\ setRow(int)
+comment8.params=c
+comment8.target=void\ setCol(int)
+comment9.params=other
+comment9.target=boolean\ equals(Cell)
+numComments=10

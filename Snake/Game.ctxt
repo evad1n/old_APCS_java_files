@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=Game(javax.swing.JFrame)
+comment1.params=d
+comment1.target=void\ setDirection(int)
+comment2.params=
+comment2.target=int\ getDirection()
+comment3.params=y
+comment3.target=void\ setDifficulty(int)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5

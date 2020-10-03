@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=disks
+comment0.target=TowersOfHanoi(int)
+comment1.params=
+comment1.target=void\ solve()
+comment2.params=numDisks\ start\ end\ temp
+comment2.target=void\ moveTower(int,\ int,\ int,\ int)
+comment3.params=start\ end
+comment3.target=void\ moveOneDisk(int,\ int)
+comment4.params=start
+comment4.target=Disk\ findStart(int)
+comment5.params=end
+comment5.target=Disk\ findEnd(int)
+numComments=6

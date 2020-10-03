@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=iq\ nombre
+comment0.target=retard(int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ hello()
+comment10.params=
+comment10.target=int\ getIQ()
+comment2.params=other
+comment2.target=void\ rape(retard)
+comment3.params=
+comment3.target=void\ book()
+comment4.params=
+comment4.target=void\ sexEd()
+comment5.params=
+comment5.target=void\ sleep()
+comment6.params=
+comment6.target=void\ masturbate()
+comment7.params=iq
+comment7.target=void\ raiseIQ(int)
+comment8.params=
+comment8.target=int\ getBabies()
+comment9.params=
+comment9.target=int\ getActions()
+numComments=11

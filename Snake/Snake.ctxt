@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=initialPosition
+comment0.target=Snake(Cell)
+comment1.params=x
+comment1.target=Cell\ getPositions(int)
+comment2.params=
+comment2.target=boolean\ selfCollide()
+comment3.params=to
+comment3.target=void\ setPosition(Cell)
+comment4.params=d
+comment4.target=void\ setDirection(int)
+comment5.params=
+comment5.target=int\ getDirection()
+comment6.params=s
+comment6.target=void\ grow(int)
+comment7.params=
+comment7.target=int\ getSize()
+comment8.params=x
+comment8.target=void\ notifyListeners(int)
+numComments=9

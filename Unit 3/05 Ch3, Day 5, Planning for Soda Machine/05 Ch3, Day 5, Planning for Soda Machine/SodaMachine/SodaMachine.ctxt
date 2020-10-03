@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SodaMachine()
+comment1.params=
+comment1.target=int\ getTemp()
+comment2.params=
+comment2.target=double\ tellPrice()
+comment3.params=
+comment3.target=boolean\ getMoney()
+comment4.params=
+comment4.target=double\ makeChange()
+comment5.params=
+comment5.target=java.lang.String\ formatChange()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=Board(int,\ int)
+comment1.params=
+comment1.target=Cell\ generateFood()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getRows()
+comment4.params=
+comment4.target=int\ getCols()
+comment5.params=row\ col
+comment5.target=Cell\ getCell(int,\ int)
+numComments=6

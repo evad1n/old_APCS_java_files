@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Disk()
+comment1.params=active
+comment1.target=boolean\ setActive(boolean)
+comment2.params=size
+comment2.target=java.lang.String\ setDiskSize(int)
+comment3.params=size
+comment3.target=java.lang.String\ setScale(int)
+comment4.params=d
+comment4.target=void\ swap(Disk)
+comment5.params=
+comment5.target=boolean\ checkForDisk()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

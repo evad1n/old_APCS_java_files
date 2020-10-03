@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=Hangman(java.lang.String)
+comment1.params=
+comment1.target=void\ printFiller()
+comment2.params=letter
+comment2.target=int\ guessLetter(char)
+comment3.params=guess
+comment3.target=int\ guessWord(java.lang.String)
+comment4.params=
+comment4.target=boolean\ checkWin()
+comment5.params=wrongs
+comment5.target=void\ drawHangman(int)
+numComments=6

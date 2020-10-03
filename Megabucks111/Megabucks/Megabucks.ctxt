@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Megabucks()
+comment1.params=
+comment1.target=void\ userNumbers()
+comment2.params=
+comment2.target=boolean\ drawNumbers()
+comment3.params=
+comment3.target=boolean\ update()
+comment4.params=
+comment4.target=void\ getWinners()
+comment5.params=
+comment5.target=void\ getFrequencies()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

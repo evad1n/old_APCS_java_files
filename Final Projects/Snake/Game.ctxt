@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=points\ players\ retry\ delay
+comment0.target=Game(javax.swing.JLabel,\ int,\ javax.swing.JLabel,\ int)
+comment1.params=accel\ rate
+comment1.target=void\ setAcceleration(boolean,\ int)
+comment2.params=d\ snake
+comment2.target=void\ setDirection(int,\ int)
+comment3.params=one\ two
+comment3.target=void\ setPlayerColors(java.awt.Color,\ java.awt.Color)
+comment4.params=snake
+comment4.target=int\ getDirection(int)
+comment5.params=
+comment5.target=boolean\ getLoss()
+comment6.params=x
+comment6.target=void\ setScore(int)
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ update(java.awt.Graphics)
+numComments=9
